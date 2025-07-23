@@ -1,0 +1,34 @@
+# How to Run the Multi Hand Finger Counter
+
+## Requirements
+
+- Python 3.7 or later
+- Webcam connected to your computer
+- Python packages:
+  - mediapipe
+  - opencv-python
+
+## Installation
+
+Open your terminal or command prompt and run:
+
+```bash
+pip install mediapipe opencv-python
+
+
+
+
+Open terminal/command prompt.
+
+Navigate to the project folder, for example:
+cd path/to/multi_hand_finger_counter
+
+
+Run the Python script:
+python finger_counter.py
+
+
+The webcam window will open showing the finger and hand counts.
+
+To exit the program, press the ESC key.
+
